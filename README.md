@@ -1,4 +1,4 @@
-# Linux-Desktop
+# LMNx9 Linux Desktop
 Run Linux Desktop On Your Android Device Easily
 
 
@@ -21,7 +21,7 @@ Run Linux Desktop On Your Android Device Easily
 ### Install XFCE4 Terminal :
     sudo apt install xfce4 -y
 
-# Run Main Tool For Desktop >>>
+## Run Tool For Desktop >>>
 ### For 64bit Device :
     git clone https://github.com/LMNx9-JOHNY/Linux-Desktop
     cd Linux-Desktop
@@ -33,7 +33,7 @@ Run Linux Desktop On Your Android Device Easily
     chmod +x *
     python lmnX32.py
 
-# NextTime If Need Run >>>
+## Next Time If Need Run >>>
 ### Finally Run :
     proot-distro login debian 
     sudo - lmnx9
