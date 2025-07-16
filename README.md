@@ -58,8 +58,11 @@ sudo apt install dbus-x11
 
 ```bash
 adduser lmnx9
+```
+```bash
 nano /etc/sudoers
 ```
+
 
 ➡️ Add this under `#root` line and save:
 ```bash
@@ -70,10 +73,11 @@ lmnx9 ALL=(ALL:ALL) ALL
 
 ```bash
 su - lmnx9
+```
+```bash
 sudo whoami
 whoami
 ```
-
 ---
 
 ## 🖥️ Install XFCE4 Desktop Environment
