@@ -44,6 +44,8 @@ proot-distro install debian
 
 ```bash
 proot-distro login debian
+```
+```bash
 apt update && apt upgrade
 apt install nano adduser
 apt install sudo
