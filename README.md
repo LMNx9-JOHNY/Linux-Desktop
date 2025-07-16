@@ -1,5 +1,5 @@
 <h1 align="center">
-✨🎨 LMNx9 Linux Desktop 🎨✨  
+⚡ LMNx9 Linux Desktop 💻
 </h1>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ---
 
-<h2 align="center">🚀 Run Full Linux Desktop on Your Android Device Easily! 🚀</h2>
+<h2 align="center">⚡ Run Full Linux Desktop on Your Android Device Easily! 💻</h2>
 
 ---
 
-## 📥 Downloads
+## 📥 Download x11 Apk
 
-> 📱 **Choose your architecture and download Termux X11 APK**
+> 📱 **Choose Your Device And Install APK**
 
 <div align="center">
 
@@ -139,5 +139,5 @@ python lmnX32.py
 ---
 
 <h3 align="center">
-Made with ❤️ by <a href="https://github.com/LMNx9-JOHNY">LMNx9</a>
+Made With 🇧🇩 By <a href="https://github.com/LMNx9-JOHNY">LMNx9</a>
 </h3>
