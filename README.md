@@ -1,6 +1,9 @@
 # LMNx9 Linux Desktop
 Run Linux Desktop On Your Android Device Easily
 
+## [DOWNLOAD FOR 64BIT](https://github.com/LMNx9-JOHNY/Linux-Desktop/raw/refs/heads/main/x11-armv64.apk)
+
+## [DOWNLOAD FOR 32BIT](https://github.com/LMNx9-JOHNY/Linux-Desktop/raw/refs/heads/main/x11-armv32.apk)
 
 ### Required Packages installation :
     pkg update && pkg upgrade;pkg install git python;pkg install x11-repo;pkg install termux-x11-nightly;pkg install proot-distro;proot-distro install debian
@@ -45,7 +48,8 @@ Run Linux Desktop On Your Android Device Easily
     python lmnX32.py
 
 
-
+# [JOIN TELEGRAM](https://t.me/+w84Y7jIUzPFmYzg1)
+# [CONTACT DEVELOPER](https://t.me/x_LMNx9)
 
 
 
