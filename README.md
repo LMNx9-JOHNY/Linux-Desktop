@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
 ⚡ LMNx9 Linux Desktop 💻
-</h1>
+</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Platform-Termux%20Android-ff2d75?style=for-the-badge&logo=android&logoColor=white">
