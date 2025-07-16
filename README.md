@@ -114,7 +114,11 @@ python lmnX32.py
 
 ```bash
 proot-distro login debian
+```
+```bash
 su - lmnx9
+```
+```bash
 cd Linux-Desktop
 chmod +x *
 ```
